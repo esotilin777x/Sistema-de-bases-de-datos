@@ -1,3 +1,11 @@
+com\mycompany\modelo\Cajero.class
+com\mycompany\modelo\Usuario.class
+com\mycompany\modelo\Gerente.class
 com\mycompany\sbd_proyecto\SystemInfo.class
 module-info.class
+com\mycompany\modelo\Proveedor.class
 com\mycompany\sbd_proyecto\App.class
+com\mycompany\modelo\DatabaseConnection.class
+com\mycompany\modelo\Producto.class
+com\mycompany\modelo\DetallePedido.class
+com\mycompany\modelo\Pedido.class
