@@ -1,3 +1,4 @@
 com\mycompany\sbd_proyecto\SystemInfo.class
 module-info.class
 com\mycompany\sbd_proyecto\App.class
+com\mycompany\sbd_proyecto\InicioController.class
