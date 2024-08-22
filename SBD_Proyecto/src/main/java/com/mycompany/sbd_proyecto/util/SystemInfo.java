@@ -1,4 +1,4 @@
-package com.mycompany.sbd_proyecto;
+package com.mycompany.sbd_proyecto.util;
 
 public class SystemInfo {
 

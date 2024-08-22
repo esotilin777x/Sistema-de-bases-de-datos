@@ -1,3 +1,21 @@
+<<<<<<< Updated upstream
 com\mycompany\sbd_proyecto\SystemInfo.class
 module-info.class
 com\mycompany\sbd_proyecto\App.class
+=======
+com\mycompany\sbd_proyecto\modelo\DetallePedido.class
+com\mycompany\sbd_proyecto\modelo\Usuario.class
+com\mycompany\sbd_proyecto\modelo\Producto.class
+com\mycompany\sbd_proyecto\util\SystemInfo.class
+com\mycompany\sbd_proyecto\util\DatabaseConnection.class
+com\mycompany\sbd_proyecto\modelo\Pedido.class
+com\mycompany\sbd_proyecto\modelo\Rol.class
+com\mycompany\sbd_proyecto\controllers\IniciarSesionController.class
+com\mycompany\sbd_proyecto\modelo\Gerente.class
+module-info.class
+com\mycompany\sbd_proyecto\App.class
+com\mycompany\sbd_proyecto\modelo\Proveedor.class
+com\mycompany\sbd_proyecto\modelo\Cajero.class
+com\mycompany\sbd_proyecto\modelo\UsuarioService.class
+com\mycompany\sbd_proyecto\controllers\RegistroController.class
+>>>>>>> Stashed changes

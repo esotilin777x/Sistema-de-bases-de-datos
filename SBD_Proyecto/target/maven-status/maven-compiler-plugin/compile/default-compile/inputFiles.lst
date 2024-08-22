@@ -1,3 +1,22 @@
+<<<<<<< Updated upstream
 C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\SystemInfo.java
+=======
+C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\modelo\Usuario.java
+C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\modelo\UsuarioService.java
+C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\modelo\Proveedor.java
+>>>>>>> Stashed changes
 C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\module-info.java
+C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\util\SystemInfo.java
+C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\modelo\Cajero.java
+C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\modelo\DetallePedido.java
+C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\controllers\IniciarSesionController.java
+C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\controllers\RegistroController.java
+C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\modelo\Gerente.java
+C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\modelo\Producto.java
+C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\util\DatabaseConnection.java
 C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\App.java
+<<<<<<< Updated upstream
+=======
+C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\modelo\Pedido.java
+C:\Users\LENOVO\Documents\GitHub\Sistema-de-bases-de-datos\SBD_Proyecto\src\main\java\com\mycompany\sbd_proyecto\modelo\Rol.java
+>>>>>>> Stashed changes

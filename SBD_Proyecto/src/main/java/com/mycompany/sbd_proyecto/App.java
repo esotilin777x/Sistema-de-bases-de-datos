@@ -1,30 +1,41 @@
 package com.mycompany.sbd_proyecto;
 
 import javafx.application.Application;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
 import javafx.scene.Scene;
-import javafx.scene.control.Label;
-import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
-
 
 /**
  * JavaFX App
  */
+
+
 public class App extends Application {
 
     @Override
     public void start(Stage stage) {
-        var javaVersion = SystemInfo.javaVersion();
-        var javafxVersion = SystemInfo.javafxVersion();
+        try {
+            // Cargar el archivo FXML de la pantalla de inicio
+            FXMLLoader loader = new FXMLLoader(getClass().getResource("/fxml/registro.fxml"));
 
-        var label = new Label("Hello, JavaFX " + javafxVersion + ", running on Java " + javaVersion + ".");
-        var scene = new Scene(new StackPane(label), 640, 480);
-        stage.setScene(scene);
-        stage.show();
+            Parent root = loader.load();
+
+            // Crear la escena con el archivo FXML cargado
+            Scene scene = new Scene(root);
+
+            // Configurar el escenario (Stage) y mostrarlo
+            stage.setScene(scene);
+            stage.setWidth(700);  // Ancho deseado
+            stage.setHeight(500); // Altura deseada
+            stage.setTitle("Pantalla de Inicio");
+            stage.show();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
     public static void main(String[] args) {
-        launch();
+        launch(args);
     }
-
 }
